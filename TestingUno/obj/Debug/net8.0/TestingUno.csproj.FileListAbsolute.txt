@@ -1,0 +1,14 @@
+C:\Users\luiss\source\repos\TestingUno\bin\Debug\net8.0\TestingUno.exe
+C:\Users\luiss\source\repos\TestingUno\bin\Debug\net8.0\TestingUno.deps.json
+C:\Users\luiss\source\repos\TestingUno\bin\Debug\net8.0\TestingUno.runtimeconfig.json
+C:\Users\luiss\source\repos\TestingUno\bin\Debug\net8.0\TestingUno.dll
+C:\Users\luiss\source\repos\TestingUno\bin\Debug\net8.0\TestingUno.pdb
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.AssemblyInfoInputs.cache
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.AssemblyInfo.cs
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.dll
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\refint\TestingUno.dll
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.pdb
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\TestingUno.genruntimeconfig.cache
+C:\Users\luiss\source\repos\TestingUno\obj\Debug\net8.0\ref\TestingUno.dll

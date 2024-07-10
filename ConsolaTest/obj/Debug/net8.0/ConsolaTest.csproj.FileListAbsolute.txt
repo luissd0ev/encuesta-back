@@ -1,0 +1,14 @@
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.AssemblyInfoInputs.cache
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.AssemblyInfo.cs
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\ConsolaTest\bin\Debug\net8.0\ConsolaTest.exe
+C:\Users\luiss\source\repos\ConsolaTest\bin\Debug\net8.0\ConsolaTest.deps.json
+C:\Users\luiss\source\repos\ConsolaTest\bin\Debug\net8.0\ConsolaTest.runtimeconfig.json
+C:\Users\luiss\source\repos\ConsolaTest\bin\Debug\net8.0\ConsolaTest.dll
+C:\Users\luiss\source\repos\ConsolaTest\bin\Debug\net8.0\ConsolaTest.pdb
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.dll
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\refint\ConsolaTest.dll
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.pdb
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ConsolaTest.genruntimeconfig.cache
+C:\Users\luiss\source\repos\ConsolaTest\obj\Debug\net8.0\ref\ConsolaTest.dll
